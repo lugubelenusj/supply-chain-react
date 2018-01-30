@@ -21,7 +21,7 @@ int main(int argc, char *argv[])
     //TODO: apply the operation requested by the user
 
     //TODO: print the result
-		int i = 0;
-		printf("%d\n", i);
+    int i = 0;
+    printf("%d\n", i);
     return 0;
 }
