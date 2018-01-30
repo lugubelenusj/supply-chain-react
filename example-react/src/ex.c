@@ -23,5 +23,6 @@ int main(int argc, char *argv[])
     //TODO: print the result
     int i = 0;
     printf("%d\n", i);
+    int t = 0;
     return 0;
 }
